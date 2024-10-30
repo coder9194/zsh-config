@@ -1,6 +1,5 @@
 # Android
 # https://reactnative.dev/docs/environment-setup
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home
 export ANDROID_HOME=/Volumes/Samsung-T7/Android/sdk
 export ANDROID_SDK_ROOT=$ANDROID_HOME
 export PATH=$PATH:$ANDROID_HOME/emulator
